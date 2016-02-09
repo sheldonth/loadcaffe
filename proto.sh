@@ -1,0 +1,1 @@
+../../protobuf/protobuf/platform/x86_64-mac/bin/protoc --cpp_out=build/ caffe.proto
